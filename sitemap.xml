@@ -4,6 +4,9 @@
    <url>
        <loc>WEBSITE</loc>
    </url>
+ <url>
+       <loc>WEBSITE/submission</loc>
+   </url>
    <url>
        <loc>WEBSITE/committee</loc>
    </url>
